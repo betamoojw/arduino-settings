@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For Settings
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Settings	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+save	KEYWORD2
+reload	KEYWORD2
+exists	KEYWORD2
+getInt	KEYWORD2
+getBool	KEYWORD2
+getFloat	KEYWORD2
+getString	KEYWORD2
+setInt	KEYWORD2
+setBool	KEYWORD2
+setFloat	KEYWORD2
+setString	KEYWORD2
+remove	KEYWORD2
+clear	KEYWORD2
+getSettingsJson	KEYWORD2
+updateFromJson	KEYWORD2
+getJsonDocument	KEYWORD2 
